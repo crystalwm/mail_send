@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="mail_send">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/mail_send"/>
+        <property name="java-output-path" value="/mail_send/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

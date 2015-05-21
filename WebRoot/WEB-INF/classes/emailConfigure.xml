@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configure>
+<!--新创建的邮箱用户不能使用 
+<username>tttcrystal@163.com</username>
+<password>Crystal</password>
+-->
+<username>xxx@163.com</username>
+<password>xxx</password>
+<smtpHostname>smtp.163.com</smtpHostname>
+</configure>
