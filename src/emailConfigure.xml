@@ -3,8 +3,12 @@
 <!--新创建的邮箱用户不能使用 
 <username>tttcrystal@163.com</username>
 <password>Crystal</password>
--->
-<username>xxx@163.com</username>
+
+
+使用的邮箱配置
+<username>xxxxx@xxx.edu.cn</username>
 <password>xxx</password>
-<smtpHostname>smtp.163.com</smtpHostname>
+<smtpHostname>mail.xxx.edu.cn</smtpHostname>
+-->
+
 </configure>

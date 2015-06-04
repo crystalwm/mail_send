@@ -127,9 +127,12 @@ public class SimpleMailSender
         Transport.send(message);
       }
       catch (AddressException e) {
+    	  e.printStackTrace();
+    	  
         errorRecipientsList.add(recipient);
       }
       catch (MessagingException e) {
+    	  e.printStackTrace(); 
     	  
         errorRecipientsList.add(recipient);
       }
